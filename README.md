@@ -20,6 +20,8 @@
 
 * IACA Dark Web Investigation Support  - [https://iaca-darkweb-tools.com/](https://iaca-darkweb-tools.com/)
 
+* Search and comparison platform that focuses on established markets - [http://amnesia6iuqn46eyzcgymhzpom3gkqpj6yxacdpvu4mbq7sgskn6hvid.onion](http://amnesia6iuqn46eyzcgymhzpom3gkqpj6yxacdpvu4mbq7sgskn6hvid.onion)
+
 
 ## 🧅 Tools to get onion links
 
